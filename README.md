@@ -26,3 +26,5 @@ The results of the data is as follows:
 The additional data to include in this analysis would be percipitation to determine if that will affect the surfing side of the business.    Enclosed is daily maximum precipitation for 1 year which is a good overview and includes June and December:
 
 ![image](https://user-images.githubusercontent.com/85530690/128657741-d4b52a99-a365-459d-a10b-d47ef6ef2430.png)
+
+Lastly, one additional dataset to include would be the comaparison by weather station.  It would be best to take a look at stations in preferred locations.  We want to ensure that all locations are within same or similar ranges, otherwise there may be an opportunity to look at different locations or at some point expand.  
