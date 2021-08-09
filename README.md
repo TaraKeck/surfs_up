@@ -12,12 +12,16 @@ The summary include December temperature statistics, the breakdown is as follows
 
 ## Deliverable 3: A written report for the statistical analysis
 
-Overview:
+### Overview:
+The goal of this analysis was to evaluate to determine if the surf and ice cream shop business is sustainable year round.   Taking a look at months June and December were specifically called out by the stakeholder specifically focusing on temperature. 
 
 
-Results:
+### Results:
+The results of the data is as follows:
+- The Average Temperatures:    June-74, December-71
+- The Maximum Temperatures:    June-85, December-83
+- The Minimum Temperatures:    June-64, December-56
 
-
-Summary:
+### Summary:
 (2 Additional queries to perform to gather weather data for June and December)
-
+The additional data to include in this analysis would be percipitation to determine if that will affect the surfing side of the business.    When it tends to rain, there could possilby be an increase in the ice cream portion.    
