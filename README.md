@@ -23,5 +23,6 @@ The results of the data is as follows:
 - The Minimum Temperatures:    June-64, December-56
 
 ### Summary:
-(2 Additional queries to perform to gather weather data for June and December)
-The additional data to include in this analysis would be percipitation to determine if that will affect the surfing side of the business.    When it tends to rain, there could possilby be an increase in the ice cream portion.    
+The additional data to include in this analysis would be percipitation to determine if that will affect the surfing side of the business.    Enclosed is daily maximum precipitation for 1 year which is a good overview and includes June and December:
+
+![image](https://user-images.githubusercontent.com/85530690/128657741-d4b52a99-a365-459d-a10b-d47ef6ef2430.png)
